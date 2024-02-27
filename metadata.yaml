@@ -16,5 +16,5 @@ homepage: "https://www.squadata.net"
 documentation: "https://www.squadata.net"
 versions:
   # Latest version
-  - sha: 1ed26dffe8433e2ef4591ff698213c8e75bd02c0
+  - sha: ae09e6235ad45b9d3822e8982c2159b1fbb6d13b
     changeNotes:  Create Template 
